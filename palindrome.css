@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+  }
+  #text-input {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+  }
+  #check-btn {
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 20px;
+    background-color: rgb(240, 188, 197);
+  }
+  #result {
+    margin: auto;
+    font-size: 15px;
+    font-family:serif;
+    font-weight: bold;
+    width: 50%;
+    height: auto;
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: rgb(63, 63, 119);
+    color: white;
+    
+  }
+.box{
+    border: 2px solid rgb(24, 24, 24);
+    height: 400px;
+    width: 600px;
+    justify-content: center;
+    margin: auto;
+    background-color: rgb(132, 204, 204);
+    border-radius: 40px;
+  }
+  #check-btn:hover{
+  background-color:black;
+  color: white;
+  border-radius: 20px;
+  }
